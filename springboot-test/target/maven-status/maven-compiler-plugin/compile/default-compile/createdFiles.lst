@@ -1,0 +1,7 @@
+com\mao\test\controller\UserController.class
+com\mao\test\mapper\UserMapper.class
+com\mao\test\config\MybatisAtuoCode.class
+com\mao\test\config\MybatisPlusConfig.class
+com\mao\test\handler\MetaDataHandler.class
+com\mao\test\pojo\User.class
+com\mao\test\TestApplicaton.class
